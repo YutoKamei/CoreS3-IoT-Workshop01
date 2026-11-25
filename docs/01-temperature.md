@@ -214,7 +214,7 @@ Temperature
 23.94 C
 ```
 
-![CoreS3の温度表示](../images/cores3_temperature_display.JPG)
+![CoreS3の温度表示](../images/cores3_temperature_display.jpg)
 
 *図4：CoreS3のディスプレイに表示された温度*
 
