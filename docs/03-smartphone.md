@@ -125,4 +125,4 @@ CoreS3の温度が先に変化し、スマートフォンには少し遅れて�
 
 ---
 
-[← STEP 2 サーバ送信](02-server.md) | **[次へ：STEP 4 実験・考察 →](04-experiment.md)**
+[← STEP 2 サーバ送信](02-server.md) |
