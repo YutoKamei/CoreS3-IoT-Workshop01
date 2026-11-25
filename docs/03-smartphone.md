@@ -1,6 +1,6 @@
 # STEP 3：スマートフォンで温度を確認しよう
 
-[🏠 トップ](../README.md) | [← STEP 2](02-server.md) | [次へ：STEP 4 →](04-experiment.md)
+[🏠 トップ](../README.md) | [← STEP 2](02-server.md) | [次へ：STEP 4 →](04-research.md)
 
 ## このSTEPの目標
 
@@ -125,4 +125,4 @@ CoreS3の温度が先に変化し、スマートフォンには少し遅れて�
 
 ---
 
-[← STEP 2 サーバ送信](02-server.md) |
+[← STEP 2 サーバ送信](02-server.md) | **[次へ：STEP 4 研究での活用例を知ろう →](04-research.md)**

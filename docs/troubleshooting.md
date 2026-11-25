@@ -1,6 +1,6 @@
 # 困ったときのチェックリスト
 
-[🏠 トップ](../README.md) | [事前準備](00-setup.md) | [STEP 1](01-temperature.md) | [STEP 2](02-server.md) | [STEP 3](03-smartphone.md)
+[🏠 トップ](../README.md) | [事前準備](00-setup.md) | [STEP 1](01-temperature.md) | [STEP 2](02-server.md) | [STEP 3](03-smartphone.md) | [STEP 4](04-research.md)
 
 このページは、**M5Stack CoreS3 + DS18B20 + AWS IoT Core** を使う実習のトラブル対処方法をまとめたものです。
 
@@ -154,4 +154,4 @@ Wi-Fi接続後に時刻同期ができていない場合や、研修用ネット
 
 ---
 
-[🏠 トップへ戻る](../README.md) | [← STEP 1](01-temperature.md) | [STEP 2](02-server.md) | [STEP 3](03-smartphone.md)
+[🏠 トップへ戻る](../README.md) | [← STEP 1](01-temperature.md) | [STEP 2](02-server.md) | [STEP 3](03-smartphone.md) | [STEP 4](04-research.md)
