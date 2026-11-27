@@ -22,7 +22,7 @@ M5Stack CoreS3と温度センサを使って温度を測定し、Wi-Fiでサー�
 | 1 | [STEP 1：温度を測ろう](docs/01-temperature.md) | CoreS3で温度を測定・表示する |
 | 2 | [STEP 2：サーバへ送ろう](docs/02-server.md) | Wi-Fiを使って温度を送信する |
 | 3 | [STEP 3：スマホで見よう](docs/03-smartphone.md) | 送信した温度をWeb画面で見る |
-| 4 | [STEP 4：研究での活用例を知ろう](docs/04-research.md) | 日本酒醸造におけるIoT研究について学ぶ |
+| 4 | [STEP 4：研究での活用例](docs/04-research.md) | 日本酒醸造におけるIoT研究について学ぶ |
 
 困ったときは [よくあるトラブルと対処](docs/troubleshooting.md) を見てください。
 
